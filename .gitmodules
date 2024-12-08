@@ -1,0 +1,6 @@
+[submodule "Structify_Frontend"]
+	path = Structify_Frontend
+	url = https://github.com/Mati-Shaikh/Structify_Frontend.git
+[submodule "Structify_backend"]
+	path = Structify_backend
+	url = https://github.com/Mati-Shaikh/Structify_backend.git
